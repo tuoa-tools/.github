@@ -47,6 +47,7 @@ or need an account.
 
 ## Who
 
-Built by Adam Simmons – musician, arts worker, data and AI specialist – in
-Melbourne, with AI-assisted development. Questions and suggestions are welcome
-through each repository’s issues, or via [tuoa.com.au](https://www.tuoa.com.au).
+Built by Adam Simmons – data and AI specialist, consultant and one-time
+musician – in Melbourne, with AI-assisted development. Questions and
+suggestions are welcome through each repository’s issues, or via
+[tuoa.com.au](https://www.tuoa.com.au).
