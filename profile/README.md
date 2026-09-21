@@ -11,9 +11,13 @@ with a friend or a colleague, and a real problem.
 ## How the tools are built
 
 - **Local first.** They run on your own machine. No accounts, no cloud
-  service, no telemetry. Your files are read, never uploaded.
+  service, no telemetry. Your files are read, never uploaded. UsefulMedia goes
+  online because that is its job: it fetches what you ask for, and checks for
+  updates to itself and its downloader.
 - **Ready to use.** Download, open, use – on Mac, Windows or Linux, with
-  nothing else to install.
+  nothing else to install. One catch: the apps aren’t code-signed, so the first
+  time you open one, a Mac needs a one-line Terminal command and Windows asks
+  you to click “Run anyway”. Each tool’s install notes show exactly how.
 - **Plain about their limits.** A tool that checks something says “no issues
   found”, not “safe”. What it can’t do is written down next to what it can.
 - **A person decides.** The tools find, extract and draft. People confirm,
@@ -22,11 +26,13 @@ with a friend or a colleague, and a real problem.
 
 ## Tools
 
-| | |
-|---|---|
-| [UsefulRedact](https://github.com/tuoa-tools/usefulredact) | Checks whether the redaction in a document actually holds, before you send it anywhere |
-| [UsefulText](https://github.com/tuoa-tools/usefultext) | Extracts text from images and PDF documents |
-| [UsefulMedia](https://github.com/tuoa-tools/usefulmedia) | Downloads video and audio files |
+- **[UsefulRedact](https://github.com/tuoa-tools/usefulredact)** – checks
+  whether the redaction in a document actually holds, before you send it
+  anywhere
+- **[UsefulText](https://github.com/tuoa-tools/usefultext)** – extracts text
+  from images and PDF documents
+- **[UsefulMedia](https://github.com/tuoa-tools/usefulmedia)** – downloads
+  video and audio files
 
 ## Prototypes and experiments
 
@@ -34,9 +40,10 @@ Things built to test an idea. They work, but they are not finished tools, and
 they don’t always meet the list above yet – a prototype may run in the cloud,
 or need an account.
 
-| | |
-|---|---|
-| [alt-text-create](https://github.com/tuoa-tools/alt-text-create) | Drafts alt-text for event images with a small vision-language model, and measures how often it makes things up. A university prototype that runs in Google Colab |
+- **[alt-text-create](https://github.com/tuoa-tools/alt-text-create)** –
+  drafts alt-text for event images with a small vision-language model, and
+  measures how often it makes things up. A university prototype that runs in
+  Google Colab
 
 ## Who
 
