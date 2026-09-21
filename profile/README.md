@@ -40,7 +40,7 @@ Things built to test an idea. They work, but they are not finished tools, and
 they don’t always meet the list above yet – a prototype may run in the cloud,
 or need an account.
 
-- **[alt-text-create](https://github.com/tuoa-tools/alt-text-create)** –
+- **[Create-Alt-Text](https://github.com/tuoa-tools/create-alt-text)** –
   drafts alt-text for event images with a small vision-language model, and
   measures how often it makes things up. A university prototype that runs in
   Google Colab
